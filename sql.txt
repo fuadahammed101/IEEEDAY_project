@@ -1,0 +1,11 @@
+-- Create the database
+Final - Computer Networking
+Chapter: 3
+page no: 60, TCP-70, 76, 81, 85, 93, 97, 102, 106
+
+Chapter: 4+5
+page no: 8, 18, 25, 27*, 33, 47, 49,51, 55*,58, 62, 66, 68, 74, 76*,80, 84, 90, 113, 116*, 117, 119, 126, 128, 130***
+
+Routing***
+Subnetting***
+Bgp***
